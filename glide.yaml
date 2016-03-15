@@ -1,0 +1,10 @@
+package: main
+import:
+- package: github.com/JesusIslam/tldr
+- package: github.com/urandom/text-summary
+  subpackages:
+  - summarize
+- package: github.com/aquilax/go-summary
+- package: github.com/dcadenas/pagerank
+- package: github.com/gorilla/mux
+- package: github.com/gorilla/context
