@@ -1,0 +1,20 @@
+hash: d11012d35f98659551d218ef984b27aa2d767e4735fc7fc153537c729b88061b
+updated: 2016-03-16T16:00:39.824508842+05:00
+imports:
+- name: github.com/aquilax/go-summary
+  version: 23cf3d9f68529d5bc44893c20dd26df8e82719c0
+- name: github.com/dcadenas/pagerank
+  version: adccdfd11986cb44381d2e328fc808b9d62302a3
+- name: github.com/gorilla/context
+  version: 1ea25387ff6f684839d82767c1733ff4d4d15d0a
+- name: github.com/gorilla/handlers
+  version: ee54c7b44cab12289237fb8631314790076e728b
+- name: github.com/gorilla/mux
+  version: acf3be1b335c8ce30b2c8d51300984666f0ceefa
+- name: github.com/JesusIslam/tldr
+  version: 7913acd4fa3aca3fdc42adc4cab5d7dfd56d88a9
+- name: github.com/urandom/text-summary
+  version: 3e2dd4c46c539daea022b498279a925cff9791dc
+  subpackages:
+  - summarize
+devImports: []
